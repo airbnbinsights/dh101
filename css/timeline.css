@@ -102,13 +102,13 @@
 .timeline .text-wrapper-2 {
   position: absolute;
   top: 665px;
-  left: 1046px;
+  left: 1065px;
   font-family: "Poppins", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 10px;
   letter-spacing: 0;
-  line-height: 40.5px;
+  line-height: 8px;
   white-space: nowrap;
 }
 
